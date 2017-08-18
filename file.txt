@@ -3,9 +3,4 @@ caracola
 Escribo el número 650292684
 Escribo desde local
 Escribo el número 1177013064
-<<<<<<< HEAD
 Escribo desde local
-=======
-Escribo desde GitHub
->>>>>>> master
-Escribo el número 423718803
