@@ -1,4 +1,9 @@
 hola
 caracola
 Escribo el número 650292684
+<<<<<<< HEAD
 Escribo el número 1447718692
+=======
+Línea a mano en GitHub
+>>>>>>> master
+Escribo el número 1969816090
