@@ -4,9 +4,4 @@ Escribo el número 650292684
 Escribo desde local
 Escribo el número 1177013064
 Escribo desde GitHub
-<<<<<<< HEAD
 Escrito desde local
-=======
-Escribo desde GitHub
->>>>>>> 0216aea5c7a0b083ff8f8445f440761e4709eccd
-Escribo el número 624652865
